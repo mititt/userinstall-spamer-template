@@ -1,1 +1,1 @@
-# userinstall-spamer-template
+# ユーザーインストールのスパマーのテンプレート
