@@ -1,0 +1,1 @@
+# userinstall-spamer-template
